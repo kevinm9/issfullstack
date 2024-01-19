@@ -9,7 +9,7 @@ php 8.1.1
 mysql 8 
 nodejs 18.18.1
 ```
-
+"Clonar primero los repositorios y situarse en las carpetas correspondientes."
 ## levantar backend laravel
 
 ```
@@ -30,6 +30,10 @@ crear la base de datos laravel , usuario root sin clave configuracion por defect
 php artisan key:generate
 php artisan migrate:fresh --seed
 ```
+levantar aplicativo
+```
+php artisan serve
+```
 
 
 
@@ -38,5 +42,5 @@ php artisan migrate:fresh --seed
 npm install
 ```
 ```
-npm run serve
+npm run dev
 ```
