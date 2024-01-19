@@ -1,6 +1,12 @@
 # issfullstack
 
 ![alt text](https://raw.githubusercontent.com/kevinm9/issfullstack/main/uix.png)
+
+## video 
+```
+https://www.youtube.com/watch?v=dUcBe5tnLMU
+```
+
 ## ambiente
 ```
 windows 10
