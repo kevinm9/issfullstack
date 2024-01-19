@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/kevinm9/issfullstack/main/uix.png)
 
 
-## video  https://img.youtube.com/vi/dUcBe5tnLMU/0.jpg
+## video
 ```
 https://www.youtube.com/watch?v=dUcBe5tnLMU
 ```
