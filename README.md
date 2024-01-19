@@ -1,7 +1,14 @@
 # issfullstack
 
-
 ![alt text](https://raw.githubusercontent.com/kevinm9/issfullstack/main/uix.png)
+## ambiente
+```
+windows 10
+laragon full 6.0.0
+php 8.1.1
+mysql 8 
+nodejs 18.18.1
+```
 
 ## levantar backend laravel
 
