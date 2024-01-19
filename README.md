@@ -25,7 +25,7 @@ DB_DATABASE=laravel
 DB_USERNAME=root
 DB_PASSWORD=
 ```
-
+crear la base de datos laravel , usuario root sin clave configuracion por defecto de laragon
 ```
 php artisan key:generate
 php artisan migrate:fresh --seed
