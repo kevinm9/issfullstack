@@ -2,10 +2,12 @@
 
 ![alt text](https://raw.githubusercontent.com/kevinm9/issfullstack/main/uix.png)
 
-## video 
+
+## video  https://img.youtube.com/vi/dUcBe5tnLMU/0.jpg
 ```
 https://www.youtube.com/watch?v=dUcBe5tnLMU
 ```
+[![](  https://img.youtube.com/vi/dUcBe5tnLMU/0.jpg )](https://www.youtube.com/watch?v=dUcBe5tnLMU)
 
 ## ambiente
 ```
